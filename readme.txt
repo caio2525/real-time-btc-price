@@ -8,7 +8,6 @@ Instale as depedências
 
    pip install -r requirements.txt
 
-
 Usage:
   Pode-se executar qualquer um dos arquivos app.py ou app2.py
   O primeiro (app.py) utiliza o connector em python para se conectar a API da Binance.
